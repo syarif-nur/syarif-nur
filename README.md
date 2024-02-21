@@ -1,5 +1,5 @@
 # 💫 About Me:
-4 years of total experience software development, mostly built app with laravel and now got attached with mobile app development.<br><br>I am using laravel as backend with flutter and android kotlin as mobile application.
+4 years of total experience software development, mostly built app with laravel and now got attached with mobile app development.<br><br>I am using laravel as backend with flutter and android kotlin as mobile application and always learning.
 
 
 ## 🌐 Socials:
