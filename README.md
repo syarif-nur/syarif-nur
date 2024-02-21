@@ -1,6 +1,5 @@
 # 💫 About Me:
-4 years of total experience software development, mostly built app with laravel and now got attached with mobile app development.<br><br>I am using laravel as backend with flutter and android kotlin as mobile application and always learning.
-
+I am a software developer, primarily focused on building web applications using Laravel. Recently, I have expanded my skill set to include mobile app development, utilizing Flutter for cross-platform app development and Android Kotlin for native Android applications. My expertise lies in integrating Laravel as the backend for these mobile applications, ensuring robust and efficient communication between the frontend and backend systems. I am passionate about continuously learning and exploring new technologies, with a keen interest in staying updated on the latest advancements in software development. My goal is to leverage my experience in Laravel and mobile app development to create innovative and user-friendly solutions for a diverse range of projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syarif-nur/) 
