@@ -11,21 +11,9 @@ I am a software developer, primarily focused on building web applications using 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syarif-nur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syarif-nur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syarif-nur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=syarif-nur&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/SyarifNur) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://app.daily.dev/threedotz"><img src="https://api.daily.dev/devcards/v2/qsjyg2l8s5S5jD1H75qjv.png?r=wo7&type=default" width="356" alt="Syarif's Dev Card"/></a>
