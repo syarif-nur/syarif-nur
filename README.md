@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer with expertise in creating applications using Flutter for cross-platform development, Kotlin for native Android, and SwiftUI for native iOS. I utilize Laravel for backend development, ensuring robust and efficient communication between frontend and backend systems. As a quick learner, I am adept at adapting to new technologies and methodologies, enabling me to deliver high-quality, user-friendly mobile applications that meet diverse project needs.
+"I am a software engineer, and I always strive to become a better one."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syarif-nur/) 
